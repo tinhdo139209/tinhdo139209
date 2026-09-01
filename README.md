@@ -23,7 +23,7 @@ Role    : Learning
 
 ---
 
-## 🧠 Trình độ ngoại ngữ
+## 🧠 Ngôn Ngữ Sử Dụng
 
 <div align="center">
 
