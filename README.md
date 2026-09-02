@@ -16,10 +16,8 @@
 
 ## 🌌 About Me
 
-```yaml
-Name    : Roshi Nguyen ( Tịnh Đỗ )
-Role    : Learning
-```
+Hi, I'm Roshi. I'm passionate about programming and Artificial Intelligence.<br>
+Currently exploring AI, Machine Learning, Computer Vision, and AI Agents.
 
 ---
 
@@ -62,54 +60,6 @@ Role    : Learning
 <p align="center"><i>* Các mức độ dựa trên kinh nghiệm và dự án thực tế.</i></p>
 
 </div>
-
----
-
-## 🚀 Featured Project • [AGENT_MIU](https://github.com/ROSHINGUYEN/AGENT_MIU)
-
-<div align="center">
-
-<table width="100%">
-  <tr>
-    <td align="center">
-      <br/>
-      <h2>🤖 <a href="https://github.com/ROSHINGUYEN/AGENT_MIU">ROSHINGUYEN / AGENT_MIU</a></h2>
-      <p><b>Hệ thống AI Agent tự động hóa & khung huấn luyện tự lái mô phỏng đa luồng</b></p>
-      <br/>
-      <p>
-        <a href="https://github.com/ROSHINGUYEN/AGENT_MIU">
-          <img src="https://img.shields.io/badge/Python-86.3%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 86.3%" />
-        </a>
-        &nbsp;
-        <a href="https://github.com/ROSHINGUYEN/AGENT_MIU">
-          <img src="https://img.shields.io/badge/C%23-11.6%25-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# 11.6%" />
-        </a>
-        &nbsp;
-        <a href="https://github.com/ROSHINGUYEN/AGENT_MIU">
-          <img src="https://img.shields.io/badge/Batchfile-1.9%25-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Batchfile 1.9%" />
-        </a>
-        &nbsp;
-        <a href="https://github.com/ROSHINGUYEN/AGENT_MIU">
-          <img src="https://img.shields.io/badge/C-0.2%25-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C 0.2%" />
-        </a>
-      </p>
-      <br/>
-      <a href="https://github.com/ROSHINGUYEN/AGENT_MIU" target="_blank">
-        <img src="https://skillicons.dev/icons?i=python,cs,c,bash,sqlite,git,github,vscode&theme=dark" alt="Tech Stack" />
-      </a>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-### 🌟 Tính Năng Cốt Lõi (Key Features):
-* 🧠 **Khung Huấn Luyện Bán Giám Sát (`Ets2VideoTrainer`):** Tự động phân tích video mô phỏng, xử lý khung hình và trích xuất dữ liệu học máy.
-* ⚡ **Chế Độ Chạy Ngầm (Headless Mode):** Tách biệt luồng AI với giao diện, tối ưu hóa tối đa tài nguyên CPU/GPU khi vận hành.
-* 💾 **Bộ Nhớ Phát Lại SQLite Bất Đồng Bộ:** Lưu trữ và tái hiện chuỗi hành động mượt mà không làm nghẽn tiến trình điều khiển.
-* 🎮 **Hệ Thống Vô Lăng Ảo Cấp Thấp:** Tích hợp module C#/C kiểm soát góc lái và bàn đạp ga/phanh chuẩn xác.
-* 🛠️ **Khởi Động 1-Click (`CHAY_MIU_AI.bat`):** Tự động kiểm tra điều kiện tiên quyết (`preflight_check.py`) và tải cấu hình hệ thống.
 
 ---
 
