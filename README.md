@@ -6,8 +6,6 @@
 
 ### 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=S-Team+Developer+%E2%9A%A1;Full-time+Freelancer+%F0%9F%92%BC;Coding+%26+Growing+Every+Day+%F0%9F%9A%80)
-
 ![](https://komarev.com/ghpvc/?username=ROSHINGUYEN&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
 
 </div>
