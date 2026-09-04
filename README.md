@@ -19,16 +19,16 @@ Currently exploring AI, Machine Learning, Computer Vision, and AI Agents.
 
 ---
 
-## 🧠 Ngôn Ngữ Sử Dụng
+## 🧠 Language Used
 
 <div align="center">
 
 <table width="100%">
   <thead>
     <tr>
-      <th align="left" nowrap>&nbsp;&nbsp;&nbsp;&nbsp; Ngôn ngữ &nbsp;&nbsp;&nbsp;&nbsp;</th>
-      <th align="center" nowrap>&nbsp;&nbsp;&nbsp;&nbsp; Thành thạo &nbsp;&nbsp;&nbsp;&nbsp;</th>
-      <th align="center" nowrap>&nbsp;&nbsp;&nbsp;&nbsp; Đánh giá chuyên môn &nbsp;&nbsp;&nbsp;&nbsp;</th>
+      <th align="left" nowrap>&nbsp;&nbsp;&nbsp;&nbsp; Language &nbsp;&nbsp;&nbsp;&nbsp;</th>
+      <th align="center" nowrap>&nbsp;&nbsp;&nbsp;&nbsp; Proficient &nbsp;&nbsp;&nbsp;&nbsp;</th>
+      <th align="center" nowrap>&nbsp;&nbsp;&nbsp;&nbsp; Professional assessment &nbsp;&nbsp;&nbsp;&nbsp;</th>
     </tr>
   </thead>
   <tbody>
@@ -54,8 +54,6 @@ Currently exploring AI, Machine Learning, Computer Vision, and AI Agents.
     </tr>
   </tbody>
 </table>
-
-<p align="center"><i>* Các mức độ dựa trên kinh nghiệm và dự án thực tế.</i></p>
 
 </div>
 
